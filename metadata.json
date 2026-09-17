@@ -1,0 +1,6 @@
+{
+  "name": "CBZ Reader",
+  "description": "A modern, premium, fast, offline comic and manga reader for .cbz files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
